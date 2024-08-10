@@ -2,8 +2,8 @@
 
 ### Descripción
 
-Estos son mis primeros pasos en programación con PHP, y pretende abarcar PHP orientado a objetos, procedural y una combinación de ambos.
-El proyecto se desarrolló en base a la siguiente consigna:
+Este proyecto es una introducción a la programación en PHP, abarcando tanto la programación orientada a objetos como procedural, y combinando ambos enfoques.
+El proyecto se desarrolló siguiendo la siguiente consigna:
 
 ### Consigna
 
